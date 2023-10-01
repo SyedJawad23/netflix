@@ -1,2 +1,2 @@
-# netflix
-this is a netflix clone code using html css &amp; jaascript
+# Netflix
+This is a Netflix Clone web application made using HTML/CSS & JavaScript
